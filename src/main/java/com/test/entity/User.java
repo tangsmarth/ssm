@@ -1,15 +1,10 @@
 package com.test.entity;
 
-/**
- * 用户信息
- */
 public class User {
-    // 成员变量
     private Integer userid;
     private String username;
     private String password;
 
-    // 构造函数
     public User() {
         super();
     }
@@ -21,7 +16,6 @@ public class User {
         this.password = password;
     }
 
-    // 成员方法
     public Integer getUserid() {
         return userid;
     }

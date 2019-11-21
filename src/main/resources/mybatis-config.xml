@@ -5,6 +5,6 @@
 <configuration>
     <!-- 设置别名 -->
     <typeAliases>
-        <package name="com.test.entity" />
+        <package name="com.test.entity.*" />
     </typeAliases>
 </configuration>

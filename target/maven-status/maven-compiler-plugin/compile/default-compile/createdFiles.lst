@@ -1,0 +1,9 @@
+com\test\entity\User.class
+com\test\service\NewsServiceImp.class
+com\test\dao\NewsDao.class
+com\test\service\NewsService.class
+com\test\service\UserService.class
+com\test\dao\UserDao.class
+com\test\service\UserServiceImp.class
+com\test\controller\UserController.class
+com\test\entity\News.class

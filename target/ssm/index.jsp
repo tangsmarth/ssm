@@ -8,6 +8,6 @@
 <body>
 <h3>欢迎，${sessionScope.user.username }</h3>
 <h3>新闻内容，${sessionScope.news.content}</h3>
-<h3>新闻图片，${sessionScope.news.imgs}</h3>
+<h3>新闻图片，<img src="${sessionScope.news.imgs}"  alt="${sessionScope.news.content}" /></h3>
 </body>
 </html>
